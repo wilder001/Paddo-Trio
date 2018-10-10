@@ -1,2 +1,2 @@
 # Paddo-Trio
-Not sue what this is yet
+Not sure what this is yet
